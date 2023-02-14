@@ -4,6 +4,10 @@
 
 ### Clone the repo
 
+```
+git clone git@github.com:philip-bst/node-express.git
+```
+
 ### Change into preoject directory
 
 ```
